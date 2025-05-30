@@ -64,7 +64,6 @@ footer {
   text-decoration: none;
 }
 
-/* Responsive Design */
 @media (max-width: 600px) {
   header {
     flex-direction: column;
